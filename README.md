@@ -1,16 +1,16 @@
-## Hi there 👋
+# olá!
 
-<!--
-**gantunes675/gantunes675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+eu me chamo joão Gabriel, e estou aprendendo a usar git e github.\
+eu gosto de:
+- [x] pedalar
+- [x] jogos digitais
+- [x] viajar
+- [x] musica
+- [x] ir na praia
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## minhas principais linguagens:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gantunes675&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+## minhas estatisticas:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gantunes675&show_icons=true&theme=synthwave)
